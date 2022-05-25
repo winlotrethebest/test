@@ -1,0 +1,149 @@
+<style type="text/css">
+
+.news-detail {
+height: 130px;
+}
+
+.col-md-9 .owl-wrapper-outer .owl-item {
+float: left;
+width: 155px !important;
+}
+.owl-carousel {
+margin-left: 1px !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWHe22hn6ZoJWxi6ax_THRLi8DTRRz1AOTWDWxJPhm5s6g52U-fshSaiW139ClcR9LiTxaZB60FvWLBDiyL63JoBbSxZD3X0qteUD83hSPm2-T1WoNf4_h7p0aSWa8Ns_m1D0UT77AR8c-oCWHQiof5mrfWtuWMQsm495yMlmFvo0ogs7Pk7z7SAno6A/s250/BULLSEYE.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_MTLjmZ42rMiOYLalNHAyfqz4oCsC0LATO3aiFlmUZeDQm-orkmcOjGu3yokyd684keGjHLjgjbokbiXV79qRbCcUjHgZxHfSLFIAxde6tge15D1Ge7TjtQkqYUBP3TxNHxkGJW0lrVsfE1ix9VodApMG2Lh74kEDuOKtdG4hxESXu6XyTrXIxJORRA/s250/CANADIA.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicBO9yw0dtdJbNOAezXOGDm5iFy-TvorEmwBGc837dZYlLVx2QP_WXHQJhCKmfe9vESIaacuwNd5XFUpmadmkNnnhyvH9khuxUGGj4kWyqh3PkRh8lb_oxG4YJPc_loyCsizBR_mhdilRvpofDUb3aXZHiKNtlCL3E-HyPZ-xrJz_cNJ9YdgC8DAQJMQ/s250/CAROLINA.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKcYrMf4CPdIUTqBdb69J-wwE8dg5pwtueAfHInlkYuggG3Twb_4vpzXK85Cd_UBSYWomF-lZruFLM18I6tXpROxeMUnP956f2tHVwf3xwczycWsvKtuUB2rrevhg9XAzY09UPcp23BfZsN88NHhyTXFQ3eSXNW29CdSAhBJyav0ZXynzFewDQw9MSdg/s250/CHINA.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyfrZwNDa9-Ywp4NQObprtgCThrCHBmKd1eC2VwnQjHyHHBnZA8SPzIM_zW6CoY4nA_rnZpIb5-VviGS7ThVtFtujFGF1VUPLAsxvV3amnJhGmR0MyXldyzOp8pb7SiJt8b60tWFFgpdWNrsGftglD9qvgBQAB1mZKBdqh01ynZWJcB8ps2nGLZLNllw/s250/HONGKONG.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuqdcIXZMyRbYwxfRUcWu5sPfNWY0cMrbeO-HZb9Rl7rXXa6j_cQLir2BbnmGQOGjTCjrIBgZrdp67-i2RzTXvHztCae0cD-jaSjfOar7dH0UrEbZHLRMh9RK_ITfSjCxwIh-8ZAeGckwhAUxg6ABwu2ue8H1pSQCV18aK9DAOxIukdIrxK0hI9ZUsDg/s250/ISRAEL.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5ABo6z49Eq7Erl9ZcTrqRU9qjY04olCDnLUjt4edOzmsShwZXFaxcZVQX3R0O09vFIl8ZWu0ILR8kcoDxK7pD34wXamRL27kH2j9WJqA746iVQQRWtwNfXv2yPr8NccC0o_XXVHmAyxZQCZ4jeCOOkWPcMfPVe0lU3U5wzcsAw0hiLHZyfrHYhjUAVw/s250/JAPAN.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwdVT3vrJUqanxaPXvnBGLtCkDBYhhEEDwp6OQEAnuEiiaqMDKxvpjvJA4T_nOr7DoBS2o3Ju--IHu-0k7i-APSw8uWDaausV-dW5W1GPWXS8KnSIa8x5PgnWIZo5oWfbsNb25HWH-BpUIYTTPEOiZKh6HIeJC-SMFdui9ceD0M7Y2z5p6VZIsIYOwQ/s250/KENTUCKY.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMbw-OJ3_4y79l9a95eo-O9aWBUWZ_frv03n1CElnPk1FhqvI7Scm3JdsA2lvNmFJtfmmtj2BrdqaocRtwgM7jNBoLMyJaUhFnaKYVhnda7pURprIk04OQv9AbzJv4v0Y25HvqkKciJIAHXZNDyN72i7Zuu5ZNeVGwsU4qfG5JtHNuGs7cGQh2iWGxaQ/s250/NEW-YORK.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxAlEOnD8NlpAg3zc9qQrQsdXfWPnpF5jwT9wWcnfXRCsIQgTRTlKRcldAUcdp-wRkpf_3bTaIBUdk6-tjdkzz3hK8jFFCBcd0-F_NDx5Dcj87oX-0SZf1WW9gw29T4YA3qtUzUTmaJHrX13aADrCus2j7jY3lJYClYT5C5nfsPyUU6XWcFQ5P5qVlAA/s250/OREGON.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgispYq2jvTAKD9j08HHWklMF7uwOakIwwXhnNoxpAbCCXdVaoFa0Sk6l4BZwdi4ItOBe-lGb2Q9L047AkwcVqwFQ-mPbkEc_91sw54hx0G3FH9e0tXI3GSbd7o9nNDmRYbV2akBPfBgPOn3jIx9qDZDGqEVI8n8kfAiQEDoDNQJyucnAiEXD-Yc1cx4A/s250/PCSO.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaZR4N5ifItHfhIxVbjqlbKXbFcRXY53YC0Ia8iQcF18khUoD6tNtWoQLcVU0tjCz16vHUFAipzfJOizGSWuELrEyseB2nB2dDqeqaHjosgepr-N7uNFK5KfsR3tzYWvc3fZe9cHMrPulcFTJTWXgqEis2wNLpsn91xNyQDCQwMOlvs28DZ7kNOdvP4A/s250/SAIGON.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_qvLplFPM0vH72DZbuurWpblomHOVfquXa5uAQV7iNoaDZEozq8ZMWqP9JcUPWWsVa0HpbjF38JlxdmtV6FcBY0qLaBoD7k7MthCwdhQd4O5Et4MhFUwyKQIMnyKzme4ga5DzDz8jiRFaIUCI9BmfgwYhsaxDWJPMshDT7Vna_S8-8nTEX8yKRugS5Q/s250/SGP.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF7UYZKkJNj0K6Mxpi5fnrHwWmSkQsWj46RDeJ_9sGC6b9NujJ1Ml83EGWK3HV25K1l6juNYkMz9Pst113hqDJKW0Pr13_MEb_c-pb2XaGmPg0JNJ7TxG_xSNFmfYNFWgVFNSQvas2j1RgbIN1Sl4PCpZiMVVlZakekPAxicNqM26BHCv2rZN2fPOmRg/s250/SIAM.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgOVHtD_KlykqsH0poWLsRKiEYUPqnpsUtel42JEOJrZlMIQn6hgeX5zSAAug0gf8pGsOoTR9bBPlR28nsorXvE_ZCE6Zyxb2AcBqA7U2l-FU3WNF7kozog8d1EtGUIMp-fwsscFQTUuIp8vogHiPaOWEraW8BQT95QykvntJALwwSiCdjr7rvtElB3Q/s250/SYDNEY.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFjpDXRRG8GthsauJLQKMy5hHm1YnSDsHwYV2WqmfSwSijIN3Oc_o-ffZ0jgCq7nov_9Z69eW1QCgn_Euc5Zt1oiLwfqQ-HpA1l1LliNo0JTE4XZS3Xo4mYfpa7W4y3xuIguc595OqQjbQPNwXFcVLgxSBB4rGogh43t1kccOh1pZS7AnwXueFpzws4A/s250/TAIWAN.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {
+    content: url(https://https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIcSHo469qiE5PXOzjY2MH_DSLFTakKc01ydBLUnOO74Ny7Vo2kpn9sFWmjp2Znbmbn3kGeo1KhQycIJIFU9gUdsZbSfwsnX5XJ6iFev0CUxvVytE5b-Y9Z6d01syMP69NIjQi7xFoYvQER-71c5Oja0szmmqfs0nbHlekmF2Z0bk3fOpUL4XeiDIeEg/s1600/TTM.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-_Y0xBJ4pW0e7kEf47e1F7YcjbvK2owkxpswjd2EzLCtF6DWvFWMVJJPvl914fV1qfpveyp0XKSgT9KaVWFWTPvekozYJkiZoLpGJ0PQmcmsVs2Fg3d84wTFXDKV4YFXiW_S2KDcE9rJl8Ay9100qwkIrbjy5F3QnI_F314JYBsuTSPCQfPaS4gpCfw/s250/HABANERO.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6-hHXdAQR6D4IBtipTxu5kcgXlh5lT5aq8uv2GffxzeBv8egtF4bO1EREhcz4n3yTb8g8THW2WXJfuRgBrlcQUm3rE9CcO6Hshv1pR2jp6IqGSEoOg8berbW3CsWbwNFA2r9TtJ1QFC_s028ngFK-vMEg32IjKRxha_l2rK7EOhOji_gfZkXi0vhJdQ/s250/IDNSLOT.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPrycA8k00wnZ-6oh8Uk_cgbk3m02HxtY0hw_QEXwILh4jk-_LUl5tbixjk6__BlFIgylh1p4cnzAmA6NduyryGJWfjnoaZWD-uBlVjXhbpOtcH6VJkBPTxmrXmul6jtDuFbkDUUyi4NzvaOC5WLthJcJCiPn1O0jfREJMzjQqADks3xr6PiIsDadjSA/s250/ISOFTBET.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheJvhO0BIoX07NCU0lswHEabcLzYeQWY4YWpgTjitK4_-iExSuc-a2eFRttoxpYFQ9rMztFc_L258LG945op_DBKtRx5cOBjfjymV83y2EfiWMafQ11xMO2mZjPusAzdhcHTqkicGhLGdGYHJGj_R2qaLNcnOX_0khmbwDUx4G0gpST82LPS70F2jrUA/s250/MICROGAMING.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3UUNiImWlG31HHwbQGmFkdjetjasbWnm096DTY8AZXSoAbkl9huvsXtS5Z5fUew-T1Fu4HuGEQfFOmwfDk8jyBcc8U-jEsOf_A6tXt8q_Eelqu76bHpsLg_Ed0QvkhILK5PZvpZy5eYk7Zg_pVW35VrHeR4bL248CpZUqzkZuRR0HKqwdYjeDCbRwew/s250/PGSOFT.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFc542KAL87yBTEEkdg-E4ASklb88tpSU5tQR4nx8h-4JL8cDx7OS1VkWlgsXrqPEtPhtdckOyrzTAHSOzbghwKUCzo3JyPOOmXvGIkeIMlcGc_6ZQGKmd75vUMdoA-gUqDciu4Q9HTc598YShleVjwdaKOBysik5nc_TSnY-LSEYrRw07dWuI-QLGIA/s250/PRAGMATIC.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCQykz8i1_-WZuOdkPlPK4vByo5j4_5NSFjNNDcLnFnPtVq1qQxr4u_6DY_Jf65bXH__yYh-ML1650v8VKt3DLwyqUgjTeaObnW2GlKABRLHKpjq2D7RSVFtDTh49KIR2UItXUVntYSlZo3KVx9LmlpUrajVZ3vLrm_oa0t7YNGtm6ddZGngFGmTx9cg/s250/BACCARAT.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgub3Tw3o2b7J9pyDwk7miKNxHblAcNHqYqnQGteDPp0xa8hJK8MVtEIYOq5SA3im28YadMJt73nAtQENpHPaMpG0hX6IrJfTQMCY-g65lHlQ4VEh5iRYhV195SXFwf95DMfEB2a0isH2uZ7PHgsPv1EU9cTbLTIZ0ES7KsAtqzPSrkILg94b-26aTO5A/s250/DRAGONTIGER.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ74_MviHGQU1OrbjHOR6U-DfKUExAUC8mUhw3VH-wpHkNvoh4oe2ORtqqUELaiHMURl-WDSEzbe96JAtu1XMdKpHgVBIyQ2MI-r96pzhsbFtvfCSi0sBm5BJjggUHGBzPpbZIu86mkoH_HY0CxoW_sGlW6d1aZvSCqu9eC5gzytW1FgYSf-eTeKgo2Q/s250/MONOPOLY.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMAGYb5eWrio8dT-fXKh2fUmhrc_rtuHOaGAMFq7kGgy5riRPBTz4x2Y3sjCM75wqFynRaETzjKKk4bl_TVhORq2qMTNUqA62I9qncsbI1nD1F35uhpwgmRnNEpG4BYND6tlGMIksJ41nx6t85aPJMjWDMGhd4y-8hCfXZpHrZDvAhV4E9ZDmznK2p6w/s250/ROULETTE.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimjvu7XTQM7Ab3wDrrbnTCoEOqmMixzhjqoNP04Oa9zRFg_aq3yLjJBMN1uTm7zTWUFsL_ZKyqifKBdoVbGpQ0C5KQTpVRq2FVzdE-fbBgBbQ483BzztSwclZhsAHYHGCeBzUkxo2wrJtYDwg5UIwzaO5OnLm7LNnlC-hLLdhT5Y3O-5VKfPwe0el5ZA/s1600/SICBO.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinH0oQFwutsAb0WBDGb3kKY8Z4OWkAVDDaQhQlUiWDY6XJAHTXGgl7LX94RgwSyuxtqHGz9bWTSqtLidhWcDZ8psQAJa8nypC6kE66AOl-uydA1SWRbTHRJTgeYA2D8vAzWOSvaQ2zlu31aNX11oK6j8cSfiCZaJqfw1bZoY_l_TICM-rgwJVhN-rHFw/s250/24-manual.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo2oWeIM0DUjd2IQ9ekJyzEXB5FDli84fpvG6-vUxjozsLQsVxujdypCQdGkd7H6kpE6wcEU-YV8MG1c9rcajUExhN7H3ONeHqwVRK2P13Tg9vJrkjRavhNbRYClSNZn7z3nujsYslWnLwMZB5uvZ3Z9RVt8ZttdYyXyAvGJgZna5E0pOSuzMDkMIUtw/s250/billiard.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(31) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNVi2OQWQBTl2P0O6eBqcLr92VG0kEOcG4Hr6qynDMfje4D2xYZtXmwgkYQ2139R4lfFQ0cL-urIEGLjS7Q8I0a2fC_kJiX7U2lECkfK6FgcwLvWmcB9f3fiBmXu2DS6rTHz8z1Qe1ZuKQT-m2C8gByhjaJJBRpoV3WycLGF78N6qzX7z6r19nw802xw/s250/gongball.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMVloXrJ09585Og4s74ecLHivFqePp4EuBPyrqahWFz3bHQxLszFPtzl19qmMt_QiLkw9xFxYvNtx4ZG_ebJyO6lBNIXtUnVihLtc8k_1lmVo_ujuEXThvasUH0rLSlXtMch4DxzFQWt85-LGZ4cIENWpKLPrY-CPRfDN68pCaodXXdjVYdmDVNSa73g/s250/pokerdice.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(33) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKXqPRLWX4t6h3XM51ttG0Wt9bGzBbxpzWyvYAkZsLZ9WRQtxjoS54nzPbtHaQ0gVoXCzW0yYSAPrC4jj5cneh-s9PAqBOBPub4XgS2MjmlBXJIJ6EZkFR7Xf-GR55J8fAGf4YTXgDkYcp26HkddTyc6srZrESDFJp-pyX_5H4pTPtqeM5MaumfMoSg/s1600/rolet-eropa.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(34) {
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0QnjVJGFI_Kb2tpDDMKgFWlUxK8bFctqsCzy7XFydS5OCLH23wBQhka3VldM6uXmHZEYv-E-Vxv8CrPYas-cmbrSwCOT4s_Ns8B5MGXuTKcK0b9JR9eJl0H5R7IabVp4Lk4kF8ibTK3Vo_0Xv5HYvZhZnZcFg_gxNGH0k51lTLvnm5MILG5ER32XqCg/s250/oglok.gif) !important;
+}
